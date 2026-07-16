@@ -41,24 +41,8 @@ The model predicts whether the news is:
 - Real News
   
 ## Screenshots
-
-### Accuracy and Classification Report
-![Accuracy](screenshots/accuracy and confusion matrix.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Prediction Output
-![Prediction](screenshots/colab.png)
+![Accuracy](../screenshots/accuracy%20and%20confusion%20matrix.png)
+![Prediction](../screenshots/colab.png)
 
 ## Author
 Tanya Chaudhary
