@@ -43,9 +43,9 @@ The model predicts whether the news is:
 ## Screenshots
 
 ### Accuracy and Classification Report
-![Accuracy](screenshots/accuracy.png)
+![Accuracy](screenshots/accuracy and confusion matrix.png)
 
 ### Prediction Output
-![Prediction](screenshots/prediction.png)
+![Prediction](screenshots/colab.png)
 ## Author
 Tanya Chaudhary
