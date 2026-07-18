@@ -39,9 +39,12 @@ Place **Fake.csv** and **True.csv** in the project folder before running the not
 The model predicts whether the news is:
 - Fake News
 - Real News
-
 ## Accuracy
-Accuracy: 0.9857461024498887
+![Accuracy](accuracy.png)
+
+## Prediction
+![Prediction](prediction.png)
+
 
 ## Author
 Tanya Chaudhary
